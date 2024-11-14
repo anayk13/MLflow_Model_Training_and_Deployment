@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/anaykumar/Desktop/MLflow/mlruns/284185468352109121/736009ee00794f19bb810ec243178ea3/artifacts
+end_time: 1731614440539
+entry_point_name: ''
+experiment_id: '284185468352109121'
+lifecycle_stage: active
+run_id: 736009ee00794f19bb810ec243178ea3
+run_name: capricious-goat-446
+run_uuid: 736009ee00794f19bb810ec243178ea3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731614439303
+status: 3
+tags: []
+user_id: anaykumar
